@@ -4,7 +4,6 @@
 执行这行代码开始安装文件中的依赖项
 ```
 pip install -r requirments.txt
-###
 ```
 python app.py或者py app.py(flask run是本地启动项目进程)
 这行代码将项目启动起来
